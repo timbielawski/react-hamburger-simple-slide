@@ -1,6 +1,6 @@
 {
   "name": "react-hamburger-simple-slide",
-  "version": "0.0.1",
+  "version": "0.3.0",
   "description": "An off-canvas sidebar component that only implements a slide menu option to keep bundle size low - inspired / derived from react-burger-menu",
   "main": "lib/SimpleBurgerMenu.js",
   "author": "Tim Bielawski",
